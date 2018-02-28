@@ -1,0 +1,10 @@
+C:\AndreTrust\Treinamentos\Core\AppCore\src\LojaConstrucao.Web\obj\Debug\netcoreapp2.0\LojaConstrucao.Web.csproj.CoreCompileInputs.cache
+C:\AndreTrust\Treinamentos\Core\AppCore\src\LojaConstrucao.Web\obj\Debug\netcoreapp2.0\LojaConstrucao.Web.AssemblyInfoInputs.cache
+C:\AndreTrust\Treinamentos\Core\AppCore\src\LojaConstrucao.Web\obj\Debug\netcoreapp2.0\LojaConstrucao.Web.AssemblyInfo.cs
+C:\AndreTrust\Treinamentos\Core\AppCore\src\LojaConstrucao.Web\bin\Debug\netcoreapp2.0\LojaConstrucao.Web.deps.json
+C:\AndreTrust\Treinamentos\Core\AppCore\src\LojaConstrucao.Web\bin\Debug\netcoreapp2.0\LojaConstrucao.Web.runtimeconfig.json
+C:\AndreTrust\Treinamentos\Core\AppCore\src\LojaConstrucao.Web\bin\Debug\netcoreapp2.0\LojaConstrucao.Web.runtimeconfig.dev.json
+C:\AndreTrust\Treinamentos\Core\AppCore\src\LojaConstrucao.Web\bin\Debug\netcoreapp2.0\LojaConstrucao.Web.dll
+C:\AndreTrust\Treinamentos\Core\AppCore\src\LojaConstrucao.Web\bin\Debug\netcoreapp2.0\LojaConstrucao.Web.pdb
+C:\AndreTrust\Treinamentos\Core\AppCore\src\LojaConstrucao.Web\obj\Debug\netcoreapp2.0\LojaConstrucao.Web.dll
+C:\AndreTrust\Treinamentos\Core\AppCore\src\LojaConstrucao.Web\obj\Debug\netcoreapp2.0\LojaConstrucao.Web.pdb
