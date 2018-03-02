@@ -8,3 +8,9 @@ C:\AndreTrust\Treinamentos\Core\AppCore\src\LojaConstrucao.Web\bin\Debug\netcore
 C:\AndreTrust\Treinamentos\Core\AppCore\src\LojaConstrucao.Web\bin\Debug\netcoreapp2.0\LojaConstrucao.Web.pdb
 C:\AndreTrust\Treinamentos\Core\AppCore\src\LojaConstrucao.Web\obj\Debug\netcoreapp2.0\LojaConstrucao.Web.dll
 C:\AndreTrust\Treinamentos\Core\AppCore\src\LojaConstrucao.Web\obj\Debug\netcoreapp2.0\LojaConstrucao.Web.pdb
+C:\AndreTrust\Treinamentos\Core\AppCore\src\LojaConstrucao.Web\bin\Debug\netcoreapp2.0\LojaConstrucao.Data.dll
+C:\AndreTrust\Treinamentos\Core\AppCore\src\LojaConstrucao.Web\bin\Debug\netcoreapp2.0\LojaConstrucao.DI.dll
+C:\AndreTrust\Treinamentos\Core\AppCore\src\LojaConstrucao.Web\bin\Debug\netcoreapp2.0\LojaConstrucao.Domain.dll
+C:\AndreTrust\Treinamentos\Core\AppCore\src\LojaConstrucao.Web\bin\Debug\netcoreapp2.0\LojaConstrucao.DI.pdb
+C:\AndreTrust\Treinamentos\Core\AppCore\src\LojaConstrucao.Web\bin\Debug\netcoreapp2.0\LojaConstrucao.Domain.pdb
+C:\AndreTrust\Treinamentos\Core\AppCore\src\LojaConstrucao.Web\bin\Debug\netcoreapp2.0\LojaConstrucao.Data.pdb

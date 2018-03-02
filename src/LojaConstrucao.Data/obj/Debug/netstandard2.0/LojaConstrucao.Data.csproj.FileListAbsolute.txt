@@ -1,0 +1,10 @@
+C:\AndreTrust\Treinamentos\Core\AppCore\src\LojaConstrucao.Data\bin\Debug\netstandard2.0\LojaConstrucao.Data.deps.json
+C:\AndreTrust\Treinamentos\Core\AppCore\src\LojaConstrucao.Data\bin\Debug\netstandard2.0\LojaConstrucao.Data.dll
+C:\AndreTrust\Treinamentos\Core\AppCore\src\LojaConstrucao.Data\bin\Debug\netstandard2.0\LojaConstrucao.Data.pdb
+C:\AndreTrust\Treinamentos\Core\AppCore\src\LojaConstrucao.Data\bin\Debug\netstandard2.0\LojaConstrucao.Domain.dll
+C:\AndreTrust\Treinamentos\Core\AppCore\src\LojaConstrucao.Data\bin\Debug\netstandard2.0\LojaConstrucao.Domain.pdb
+C:\AndreTrust\Treinamentos\Core\AppCore\src\LojaConstrucao.Data\obj\Debug\netstandard2.0\LojaConstrucao.Data.csproj.CoreCompileInputs.cache
+C:\AndreTrust\Treinamentos\Core\AppCore\src\LojaConstrucao.Data\obj\Debug\netstandard2.0\LojaConstrucao.Data.AssemblyInfoInputs.cache
+C:\AndreTrust\Treinamentos\Core\AppCore\src\LojaConstrucao.Data\obj\Debug\netstandard2.0\LojaConstrucao.Data.AssemblyInfo.cs
+C:\AndreTrust\Treinamentos\Core\AppCore\src\LojaConstrucao.Data\obj\Debug\netstandard2.0\LojaConstrucao.Data.dll
+C:\AndreTrust\Treinamentos\Core\AppCore\src\LojaConstrucao.Data\obj\Debug\netstandard2.0\LojaConstrucao.Data.pdb

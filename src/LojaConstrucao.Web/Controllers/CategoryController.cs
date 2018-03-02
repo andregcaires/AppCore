@@ -5,11 +5,20 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using LojaConstrucao.Web.Models;
+using LojaConstrucao.Domain.Dtos;
+using LojaConstrucao.Domain.Products;
 
 namespace LojaConstrucao.Web.Controllers
 {
+
     public class CategoryController : Controller
     {
+        private readonly CategoryStorage _categoryStorage;
+
+        public CategoryController(CategoryStorage categoryStorage)
+        {
+            _categoryStorage = categoryStorage; 
+        }
         public IActionResult Index()
         {
             return View();
@@ -21,8 +30,10 @@ namespace LojaConstrucao.Web.Controllers
         }
 
         [HttpPost]
-        public IActionResult CreateOrEdit(int id)
+        public IActionResult CreateOrEdit(CategoryDto dto)
         {
+            _categoryStorage.Store(dto);
+
             return View();
         }
 
