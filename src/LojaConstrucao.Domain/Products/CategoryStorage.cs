@@ -10,16 +10,16 @@ namespace LojaConstrucao.Domain.Products
             _categoryRepository = categoryRepository;
         }
 
-        public void Store(CategoryDto dto){
-            DomainException.When(dto == null, "Categoria inválida!");
+        public void Store(int id, string name){
+            //DomainException.When(dto == null, "Categoria inválida!");
 
-            var category = _categoryRepository.GetById(dto.Id);
+            var category = _categoryRepository.GetById(id);
             if(category == null){
-                category = new Category(dto.Name);
+                category = new Category(name);
                 _categoryRepository.Save(category);
             }
             else{
-                category.Update(dto.Name);
+                category.Update(name);
             }
         }
     }

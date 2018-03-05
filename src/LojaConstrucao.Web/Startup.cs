@@ -8,6 +8,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using LojaConstrucao.DI;
 using LojaConstrucao.Domain;
+using LojaConstrucao.Web.Filters;
 
 namespace LojaConstrucao.Web
 {
@@ -24,7 +25,9 @@ namespace LojaConstrucao.Web
         public void ConfigureServices(IServiceCollection services)
         {
             Bootstrap.Configure(services, Configuration.GetConnectionString("DefaultConnection")); // camada DI
-            services.AddMvc();
+            services.AddMvc(config => {
+                config.Filters.Add(typeof(CustomExceptionFilter));
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

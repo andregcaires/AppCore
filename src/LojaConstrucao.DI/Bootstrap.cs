@@ -16,6 +16,8 @@ namespace LojaConstrucao.DI
                 options.UseNpgsql(conn));
             
             services.AddSingleton(typeof(IRepository<>), typeof(IRepository<>));
+            services.AddSingleton(typeof(IRepository<>), typeof(Repository<>));
+            services.AddSingleton(typeof(IUnitOfWork), typeof(UnitOfWork));
         }
     }
 }
