@@ -9,10 +9,11 @@ using LojaConstrucao.Domain.Dtos;
 using LojaConstrucao.Domain.Products;
 using LojaConstrucao.Web.ViewModels;
 using LojaConstrucao.Domain;
+using Microsoft.AspNetCore.Authorization;
 
 namespace LojaConstrucao.Web.Controllers
 {
-
+    [Authorize]
     public class CategoryController : Controller
     {
         private readonly CategoryStorage _categoryStorage;

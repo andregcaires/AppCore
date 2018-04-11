@@ -3825,6 +3825,8 @@
       "LojaConstrucao.Data/1.0.0": {
         "dependencies": {
           "LojaConstrucao.Domain": "1.0.0",
+          "Microsoft.AspNetCore.Identity": "2.0.1",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "2.0.1",
           "Microsoft.EntityFrameworkCore": "2.0.1",
           "Microsoft.EntityFrameworkCore.Tools": "2.0.1",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "2.0.1"
